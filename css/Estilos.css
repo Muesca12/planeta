@@ -1,0 +1,18 @@
+body
+{
+padding: 10px;
+margin: 40px;
+font-size: 24px;
+font-family: helvetica;
+background-image: url(https://static.vecteezy.com/system/resources/previews/024/448/956/large_2x/space-wallpaper-banner-background-stunning-view-of-a-cosmic-galaxy-with-planets-and-space-objects-elements-of-this-image-furnished-by-nasa-generate-ai-free-photo.jpg);
+background-repeat: no-repeat;
+background-size: auto;
+color: white;
+}
+
+nav
+{
+    background-color: #7dcdff;
+    padding: 0px;
+    color: white;
+}
